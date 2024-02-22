@@ -425,7 +425,6 @@
 
 body {
   background-color: var(--light-grey) !important;
-  padding-top: 90px;
   overflow-y: scroll;
   scroll-behavior: smooth !important;
   -webkit-font-smoothing: antialiased;
